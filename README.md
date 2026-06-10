@@ -1,2 +1,2 @@
-# signature-assets
-Email signature images
+# public-assets
+
